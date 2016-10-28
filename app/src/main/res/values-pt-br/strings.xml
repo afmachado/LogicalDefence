@@ -37,7 +37,7 @@
     <string name="fallacies_descs_1_7">Supor que algo é melhor porque é novo ou recente.</string>
     <string name="fallacies_descs_1_8">Afirmar que algo é verdade porque a maioria das pessoas acredita nisso.</string>
     <string name="fallacies_descs_1_9">Assumir que, porque algo pode acontecer, isso vai inevitavelmente acontecer.</string>
-    <string name="fallacies_descs_1_10">Afirmar que algo é verdade porque(aparentemente) tem sempre sido assim.</string>
+    <string name="fallacies_descs_1_10">Afirmar que algo é verdade porque (aparentemente) tem sempre sido assim.</string>
 
     <string name="fallacies_examples_1_1">\'Dizem que leva 7 anos para digerir chiclete.\'</string>
     <string name="fallacies_examples_1_2">\'Mais de 4000 notáveis cientistas e engenheiros discutem sobre o aquecimento global.\'</string>
@@ -70,7 +70,7 @@
     <string name="fallacies_descs_2_8">Sugerir que uma afirmação é verdadeira ou falsa apenas porque você espera fortemente que seja.</string>
 
     <string name="fallacies_examples_2_1">\'Não pode ser o Senador naquele vídeo de sexo. Se fosse o Senador, ele estaria mentindo sobre não conhecer ela, e ele não é o tipo de homem que mentiria.\'</string>
-    <string name="fallacies_examples_2_2">\'Antes que você perceba, haverá mais mesquistas do que igrejas.\'</string>
+    <string name="fallacies_examples_2_2">\'Antes que você perceba, haverá mais mesquitas do que igrejas.\'</string>
     <string name="fallacies_examples_2_3">\'Leitores inteligentes e sofisticados com certeza reconhecerão uma falácia como essa quando a lerem.\'</string>
     <string name="fallacies_examples_2_4">\'Claro que homossexualidade não é natural. Você não vê animais do mesmo sexo copulando.\'</string>
     <string name="fallacies_examples_2_5">\'O ex-ditador está velho e doente. É errado fazer ele ser julgado por esses supostos crimes.\'</string>
@@ -95,7 +95,7 @@
 
     <string name="fallacies_descs_3_1">Descartar evidência obtida a partir de pesquisa sistemática ou de testes em favor de algumas histórias pessoais.</string>
     <string name="fallacies_descs_3_2">Assumir que características ou crenças de alguns de um grupo se aplica ao grupo inteiro.</string>
-    <string name="fallacies_descs_3_3">Assumir que características ou crenças de um grupo automaticamente se aplica à qualquer membro indivudual.</string>
+    <string name="fallacies_descs_3_3">Assumir que características ou crenças de um grupo automaticamente se aplica à qualquer membro individual.</string>
     <string name="fallacies_descs_3_4">Assumir que algo que é bem projetado ou visualmente agradável é mais válido ou melhor.</string>
     <string name="fallacies_descs_3_5">Assumir que um histórico de resultados independentes vai afetar resultados futuros.</string>
     <string name="fallacies_descs_3_6">Elaborar uma conclusão geral a partir de uma pequena amostra.</string>
@@ -109,13 +109,13 @@
 
     <string name="fallacies_examples_3_1">\'Eu vou continuar fumando. Meu avô fumava 40 cigarros por dia e morreu com 90 anos.\'</string>
     <string name="fallacies_examples_3_2">\'Ataques terroristas recentes foram feitos por grupos Islâmicos, portanto todos os terroristas são muçulmanos.\'</string>
-    <string name="fallacies_examples_3_3">\'Muitos conservadores querem banir o casamento gay, não acreditam no aqucimento e negam a teoria evolucionista, portanto todos os conservadores são homofóbicos, antiecológicos e criacionistas.\'</string>
+    <string name="fallacies_examples_3_3">\'Muitos conservadores querem banir o casamento gay, não acreditam no aquecimento globam e negam a teoria evolucionista, portanto todos os conservadores são homofóbicos, antiecológicos e criacionistas.\'</string>
     <string name="fallacies_examples_3_4">\'Elementary OS é a mais bem projetada e a mais bem apresentada distribuição do Linux, portanto é claramente superior.\'</string>
     <string name="fallacies_examples_3_5">\'Joguei uma moeda 10 vezes seguidas e ela caiu cara todas as vezes, portanto a próxima jogada é mais provável que caia coroa.\'</string>
     <string name="fallacies_examples_3_6">\'Acabei de ser fechado no trânsito por uma motorista mulher. Mulheres não sabem dirigir.\'</string>
     <string name="fallacies_examples_3_7">\'Ela quer anticoncepcional no plano da saúde dela? Que vadia!\'</string>
     <string name="fallacies_examples_3_8">\'Bati na traseira do seu carro, mas eu não acho que devo pagar pelo estrago. Você acha que devo pagar por todo estrago. Um compromisso justo seria dividir a conta pela metade.\'</string>
-    <string name="fallacies_examples_3_9">\'Para que fazer todas essas campanhas contra dirigir bêbado? As pessoas vão continuar a beber e dirigirde qualquer forma.\'</string>
+    <string name="fallacies_examples_3_9">\'Para que fazer todas essas campanhas contra dirigir bêbado? As pessoas vão continuar a beber e dirigir de qualquer forma.\'</string>
     <string name="fallacies_examples_3_10">\'Isso talvez seja verdade para você, mas não é verdade para mim.\'</string>
     <string name="fallacies_examples_3_11">\'Esse grande fabricante de sapatos emprega crianças em ateliês clandestinos. Portanto todas as companhias de sapatos são cruéis empregadoras de crianças escravas!\'</string>
     <string name="fallacies_examples_3_12">\'Aqueles jovens fizeram motim porque lhes faltaram pais moralmente responsáveis.\'</string>
@@ -177,7 +177,7 @@
     <string name="fallacies_examples_5_4">\'É óbvio – 9/11 foi uma conspiração liderada pelo governo americano para justificar a guerra no Iraque e Afeganistão. Nenhum avião atingiu o Pentágono. A queda das Torres Gêmeas foi uma demolição controlada… etc.\'</string>
     <string name="fallacies_examples_5_5">\'Teremos que cortar o orçamento da educação ou entraremos mais fundo em dívidas. Não podemos arcar com mais dívidas , então teremos que cortar o orçamento da educação.\'</string>
     <string name="fallacies_examples_5_6">\'Eu não tive relações sexuais com aquela mulher.\'</string>
-    <string name="fallacies_examples_5_7">\'Após legalizar o casamento gay, bibliotecas das escolas foram solicitadas a disponibilizar literatura homoafetiva; crianças de escola primária receberam contos infantis homossexuais e até manuais de defesa da homosexualidade.\'</string>
+    <string name="fallacies_examples_5_7">\'Após legalizar o casamento gay, bibliotecas das escolas foram solicitadas a disponibilizar literatura homoafetiva; crianças de escola primária receberam contos infantis homossexuais e até manuais de defesa da homossexualidade.\'</string>
     <string name="fallacies_examples_5_8">\'Por que deveria o senador pagar seus gastos irregulares? Afinal, outros senadores fizeram coisas muito piores.\'</string>
     <string name="fallacies_examples_5_9">\'Se legalizarmos a maconha, mais pessoas vão começar a usar crack e heroína, então teremos que legaizar esses também.\'</string>
     <string name="fallacies_examples_5_10">\'O regime iraquiano possui e produz armas químicas e biológicas. E está buscando ter armas nucleares.\'</string>
@@ -200,7 +200,7 @@
 
     <string name="fallacies_examples_6_1">\'Qualquer pessoa que diga que deveríamos construir uma Mesquita do Marco Zero de Manhattan é um atipatriota e esquerdista.\'</string>
     <string name="fallacies_examples_6_2">\'Afirmo que os ciclos solares de longo prazo são a causa do aquecimento global. Mostre que estou errado.\'</string>
-    <string name="fallacies_examples_6_3">\'Um estudo dos riscos à saúde dos telefones celulares envolveu operadoras de telefonia, portanto o estudo não éconfiável.\'</string>
+    <string name="fallacies_examples_6_3">\'Um estudo dos riscos à saúde dos telefones celulares envolveu operadoras de telefonia, portanto o estudo não é confiável.\'</string>
     <string name="fallacies_examples_6_4">\'Claro, os meios de comunicação esquerdistas dominantes não vão dizer que Barack Obama é muçulmano.\'</string>
     <string name="fallacies_examples_6_5">\'Ah você quer relaxar as leis antiterrorismo exatamente como os terroristas querem que façamos. Você está dizendo que apoia o terrorismo?\'</string>
     <string name="fallacies_examples_6_6">\'Você diz que Israel deveria parar de construir colônias na Cisjordânia violando o tratado, então você está dizendo que Israel não tem direito de ser uma nação?\'</string>
@@ -208,7 +208,7 @@
     <string name="title_activity_about">Sobre</string>
     <string name="action_settings">Configurações</string>
     <string name="creator">Criado por LukeStoneHm\n2015</string>
-    <string name="about_more">Um aplicativo simples que apresenta as falácias da lógica mais comuns de uma maneira visualmente agradável.\n\nÉ um projeto de software livre licensiado sob a licença GPL 2.\n\nSinta-se livre para navegar no código fonte que está hospedado no GitHub.\n\nhttps://github.com/LukeStonehm/LogicalDefence/</string>
+    <string name="about_more">Um aplicativo simples que apresenta as falácias da lógica mais comuns de uma maneira visualmente agradável.\n\nÉ um projeto de software livre licenciado sob GNU-GPL 2.\n\nSinta-se livre para navegar no código fonte que está hospedado no GitHub.\n\nhttps://github.com/LukeStonehm/LogicalDefence/</string>
 
     <string name="share">Compartilhar uma falácia</string>
     <string name="from">\n\nCompartilhado através do aplicativo Defesa Lógica</string>
